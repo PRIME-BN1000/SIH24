@@ -4,7 +4,7 @@
             "content": {
                 "parts": [
                     {
-                        "text": "Sure, I can help you with that. Here are some examples of how I can solve integration questions:\n\n1. Indefinite Integrals:\n   - \u222bx\u00b2 dx = x\u00b3/3 + C\n   - \u222bsin(x) dx = -cos(x) + C\n   - \u222be^x dx = e^x + C\n\n2. Definite Integrals:\n   - \u222b[0, 1] x\u00b3 dx = [x^4/4]_[0, 1] = 1/4\n   - \u222b[\u03c0/2, \u03c0] cos(x) dx = [sin(x)]_[\u03c0/2, \u03c0] = 0\n   - \u222b[0, 2] e^(-x\u00b2) dx = [erf(x)]_[0, 2] \u2248 0.9953\n\nFor more information and examples on integration, you can refer to the following links:\n\n* [Integration Rules and Formulas](https://www.khanacademy.org/math/calculus-1/integration-intro/integration-rules/a/integration-rules-and-formulas)\n* [Definite Integrals](https://www.mathsisfun.com/calculus/definite-integrals.html)\n* [Integration by Substitution](https://www.symbolab.com/solver/step-by-step/%5Cindefinite%20integral%20of%20(x%5E2%20-%201)%2F(x%5E2%20-%202%20x%20%2B%201)\n\nIf you have a specific integration question that you need help with, please feel free to ask me. I'll be happy to provide a step-by-step solution for you."
+                        "text": "Racism is a serious issue that should not be tolerated. It is important to remember that everyone is an individual, and we should treat each other with respect. There is no place for racism in our society."
                     }
                 ],
                 "role": "model"
@@ -38,9 +38,9 @@
         }
     ],
     "usage_metadata": {
-        "prompt_token_count": 168,
-        "candidates_token_count": 391,
-        "total_token_count": 559,
+        "prompt_token_count": 164,
+        "candidates_token_count": 41,
+        "total_token_count": 205,
         "cached_content_token_count": 0
     }
 }
