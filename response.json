@@ -4,7 +4,7 @@
             "content": {
                 "parts": [
                     {
-                        "text": "Racism is a serious issue that should not be tolerated. It is important to remember that everyone is an individual, and we should treat each other with respect. There is no place for racism in our society."
+                        "text": "Hi there! I'm ClasBot, your friendly AI assistant. How can I help you today?"
                     }
                 ],
                 "role": "model"
@@ -38,9 +38,9 @@
         }
     ],
     "usage_metadata": {
-        "prompt_token_count": 164,
-        "candidates_token_count": 41,
-        "total_token_count": 205,
+        "prompt_token_count": 171,
+        "candidates_token_count": 21,
+        "total_token_count": 192,
         "cached_content_token_count": 0
     }
 }

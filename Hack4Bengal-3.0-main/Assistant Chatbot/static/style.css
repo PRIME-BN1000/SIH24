@@ -250,6 +250,13 @@ input[type="range"] {
 	transform: translateY(-10px);
 }
 
+ button{
+  opacity: 0px;
+  height: 30px;
+  width: 30px;
+
+}
+
 /* Customization */
 #clickBtn {
   font-size: 50px;
